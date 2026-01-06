@@ -1,0 +1,26 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+npm-debug.log
+
+# Python
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Mac
+.Spotlight-V100
+
+# IDE files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln

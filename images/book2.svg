@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+  <defs>
+    <linearGradient id="g2" x1="0" x2="1">
+      <stop offset="0" stop-color="#06b6d4"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="240" rx="20" fill="url(#g2)"/>
+  <g transform="translate(18,38)" fill="#fff" font-family="sans-serif">
+    <rect x="0" y="0" width="140" height="120" rx="8" fill="rgba(255,255,255,0.06)"/>
+    <text x="10" y="34" font-size="20" font-weight="700">Cognitive</text>
+    <text x="10" y="58" font-size="20" font-weight="700">UX</text>
+  </g>
+</svg>
